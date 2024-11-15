@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 static int entry;
 	public static void main(String[] args) {
-		System.out.println("WELCOME TO AMAZON");
+		System.out.println("WELCOME TO SHOPEE");
 		System.out.println("YOUR CART IS EAGER TO FULL....");
 		Scanner scan = new Scanner(System.in);
 		
